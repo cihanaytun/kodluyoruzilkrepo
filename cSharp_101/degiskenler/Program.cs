@@ -1,97 +1,53 @@
-﻿using System;
+﻿using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.Collections;
+using System.ComponentModel;
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization;
+using System.Text.RegularExpressions;
+using System.Text;
+using System;
 
-namespace degiskenler
+class Result
 {
-    class Program
+
+    /*
+     * Complete the 'solve' function below.
+     *
+     * The function accepts following parameters:
+     *  1. DOUBLE meal_cost
+     *  2. INTEGER tip_percent
+     *  3. INTEGER tax_percent
+     */
+
+    public static void solve(double meal_cost, int tip_percent, int tax_percent)
     {
-        static void Main(string[] args)
-        {
-            /*
-            int deger = 6;
-            string degisken = null;
-            string Deegisken = null;
-            Console.WriteLine(deger);
-            */
+        var tip = meal_cost/100 * tip_percent;
+        var tax =Convert.ToDouble(tax_percent/100 * tip_percent);
+        
+        var total_cost = meal_cost + tip + tax;
+        
+       // round(total_cost);
+        Console.WriteLine(tax);    
+    }
+    
 
-            byte b = 5;             //0-255 arası 1 byte
-            sbyte sb = 3;           //-127 - +127 arası 1 byte
+}
 
-            short s = 5;            //2 byte
-            ushort us = 5;          //0-65365 arası 2 byte
+class Solution
+{
+    public static void Main(string[] args)
+    {
+        double meal_cost = Convert.ToDouble(Console.ReadLine().Trim());
 
-            Int16 i16 = 2;          //2 byte 
-            int i = 2;              //4 byte
-            Int32 i32 = 2;          //4 byte
-            Int64 i64 = 2;          // 8 byte  
-            uint ui = 2;            // 4 byte
+        int tip_percent = Convert.ToInt32(Console.ReadLine().Trim());
 
-            long l = 4;             // 8 byte
-            ulong ul = 4;           // 8 byte      
+        int tax_percent = Convert.ToInt32(Console.ReadLine().Trim());
 
-            // reel sayılar
-            float f = 5;            //4 byte 
-            double d = 5;           //8 byte
-            decimal de = 5;         // 16 byte
-
-            char ch = '2';          //2 byte
-            string str = "Cihan";   // sınırsız
-
-            bool bl = true;         // 1 byte
-            bool bl2 = false;       // 1 byte
-
-            DateTime dt = DateTime.Now;
-            Console.WriteLine(dt);
-
-
-            object o1 = "x";
-            object o2 = 'y';
-            object o3 = 4;
-            object o4 = 4.5;
-
-
-            //string ifadeler tanımlama
-            string str1 = string.Empty;
-            str1 = "Cihan Aytun";
-            string ad = "Cihan";
-            string soyad = "Aytun";
-            string tamIsim = ad + " " + soyad;
-
-
-            //Intager ifadeler tanımlama
-            int intager1 = 5;
-            int intager2 = 3;
-            int intager3 = intager1 * intager2;
-
-
-            //Bool ifadeler tanımlama   
-            bool bool1 = 10>2;//true döner
-            bool bool2 = 10<2;//false döner
-
-
-
-            //DEGISKEN DONUSUMLERI
-            string str20 = "20";
-            int int20 = 20;
-            string yeniDeger = str20 + int20.ToString();
-            Console.WriteLine(yeniDeger);// çıktısı 2020
-
-            int int21 = int20 + Convert.ToInt32(str20);
-            Console.WriteLine(int21);// çıktısı 40
-
-            int int22 = int20 + int.Parse(str20);//Çıktısıs 40
-
-
-            //Datetime
-            string datetime1 = DateTime.Now.ToString("dd.MM.yyyy");
-            Console.WriteLine(datetime1);
-            string datetime2 = DateTime.Now.ToString("dd/MM/yyyy");
-            Console.WriteLine(datetime2);
-            
-            //saat
-            string hour = DateTime.Now.ToString("HH:mm");
-            Console.WriteLine(hour);
-
-
-        }
+        Result.solve(meal_cost, tip_percent, tax_percent);
     }
 }

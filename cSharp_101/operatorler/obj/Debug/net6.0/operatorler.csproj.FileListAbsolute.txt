@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\bin\Debug\net6.0\operatorler.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\bin\Debug\net6.0\operatorler.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\bin\Debug\net6.0\operatorler.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\bin\Debug\net6.0\operatorler.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\bin\Debug\net6.0\operatorler.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\operatorler.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\operatorler.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\operatorler.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\refint\operatorler.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\operatorler.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\operatorler.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\operatorler\obj\Debug\net6.0\ref\operatorler.dll
