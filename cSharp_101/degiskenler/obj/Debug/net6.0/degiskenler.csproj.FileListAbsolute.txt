@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\bin\Debug\net6.0\degiskenler.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\bin\Debug\net6.0\degiskenler.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\degiskenler.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\refint\degiskenler.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll

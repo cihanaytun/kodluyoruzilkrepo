@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\19_PatikaDev_Course\\patikadev\\cSharp_101\\console_programlama\\console_programlama.csproj",
-      "projectName": "console_programlama",
-      "projectPath": "D:\\19_PatikaDev_Course\\patikadev\\cSharp_101\\console_programlama\\console_programlama.csproj",
+      "projectUniqueName": "D:\\19_PatikaDev_Course\\patikadev\\cSharp_101\\degiskenler\\degiskenler.csproj",
+      "projectName": "degiskenler",
+      "projectPath": "D:\\19_PatikaDev_Course\\patikadev\\cSharp_101\\degiskenler\\degiskenler.csproj",
       "packagesPath": "C:\\Users\\Aytun\\.nuget\\packages\\",
-      "outputPath": "D:\\19_PatikaDev_Course\\patikadev\\cSharp_101\\console_programlama\\obj\\",
+      "outputPath": "D:\\19_PatikaDev_Course\\patikadev\\cSharp_101\\degiskenler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aytun\\AppData\\Roaming\\NuGet\\NuGet.Config",
