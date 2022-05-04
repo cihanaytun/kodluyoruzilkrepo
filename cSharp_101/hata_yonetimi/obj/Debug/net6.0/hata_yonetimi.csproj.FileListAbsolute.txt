@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\bin\Debug\net6.0\hata_yonetimi.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\bin\Debug\net6.0\hata_yonetimi.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\bin\Debug\net6.0\hata_yonetimi.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\bin\Debug\net6.0\hata_yonetimi.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\bin\Debug\net6.0\hata_yonetimi.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\hata_yonetimi.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\hata_yonetimi.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\hata_yonetimi.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\hata_yonetimi.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\hata_yonetimi.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\refint\hata_yonetimi.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\hata_yonetimi.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\hata_yonetimi.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\hata_yonetimi\obj\Debug\net6.0\ref\hata_yonetimi.dll
