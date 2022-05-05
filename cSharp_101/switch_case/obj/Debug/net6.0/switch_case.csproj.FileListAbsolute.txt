@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\bin\Debug\net6.0\switch_case.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\bin\Debug\net6.0\switch_case.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\bin\Debug\net6.0\switch_case.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\bin\Debug\net6.0\switch_case.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\bin\Debug\net6.0\switch_case.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\switch_case.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\switch_case.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\switch_case.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\switch_case.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\switch_case.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\refint\switch_case.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\switch_case.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\switch_case.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\switch_case\obj\Debug\net6.0\ref\switch_case.dll
