@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\bin\Debug\net6.0\donguler_for_loop.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\bin\Debug\net6.0\donguler_for_loop.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\bin\Debug\net6.0\donguler_for_loop.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\bin\Debug\net6.0\donguler_for_loop.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\bin\Debug\net6.0\donguler_for_loop.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\donguler_for_loop.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\donguler_for_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\donguler_for_loop.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\donguler_for_loop.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\donguler_for_loop.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\donguler_for_loop.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\refint\donguler_for_loop.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\donguler_for_loop.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\donguler_for_loop.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\donguler_for_loop\obj\Debug\net6.0\ref\donguler_for_loop.dll
