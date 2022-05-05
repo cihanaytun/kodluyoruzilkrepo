@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\bin\Debug\net6.0\if_else_if.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\bin\Debug\net6.0\if_else_if.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\bin\Debug\net6.0\if_else_if.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\bin\Debug\net6.0\if_else_if.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\bin\Debug\net6.0\if_else_if.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\if_else_if.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\if_else_if.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\if_else_if.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\if_else_if.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\if_else_if.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\refint\if_else_if.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\if_else_if.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\if_else_if.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\if_else_if\obj\Debug\net6.0\ref\if_else_if.dll
