@@ -4,13 +4,13 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
 
 ![image](img/image.png)
 
-## -Data Structures And Algorithms-
+## _Data Structures And Algorithms_
 - binary_tree_search_project
 - insertion_sort_project
 - merge_sort_project
 
 
-## C# 101
+## *C# 101*
 - console_programlama
 - degiskenler
 - operatorler
