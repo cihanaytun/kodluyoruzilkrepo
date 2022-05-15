@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\bin\Debug\net6.0\metotlar_1.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\bin\Debug\net6.0\metotlar_1.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\bin\Debug\net6.0\metotlar_1.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\bin\Debug\net6.0\metotlar_1.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\bin\Debug\net6.0\metotlar_1.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\metotlar_1.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\metotlar_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\metotlar_1.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\metotlar_1.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\metotlar_1.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\metotlar_1.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\refint\metotlar_1.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\metotlar_1.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\metotlar_1.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\metotlar\obj\Debug\net6.0\ref\metotlar_1.dll
