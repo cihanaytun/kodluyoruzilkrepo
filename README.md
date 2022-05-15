@@ -3,20 +3,29 @@
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![image](img/image.png)
 
-## Installation
-
-Öncelikle projeyi clonelayın.
-```bash
-https://github.com/cihanaytun/patika-dev.git
-```
-
-## Usage
-
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+## Data Structures And Algorithms
+- binary_tree_search_project
+- insertion_sort_project
+- merge_sort_project
 
 
-## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+## C# 101
+- console_programlama
+- degiskenler
+- operatorler
+- tip_donusumleri
+- hata_yonetimi
+- if_else_if
+- switch_case
+- diziler
+  * diziler_1
+  * diziler_2
+- metotlar
+  * metotlar_1
+
+  
+
+
 
 
 ## License
