@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
 
 ![image](img/image.png)
 
-## Data Structures And Algorithms
+## -Data Structures And Algorithms-
 - binary_tree_search_project
 - insertion_sort_project
 - merge_sort_project
