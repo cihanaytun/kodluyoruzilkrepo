@@ -5,20 +5,14 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 ```bash
-https://github.com/cihanaytun/kodluyoruzilkrepo.git
+https://github.com/cihanaytun/patika-dev.git
 ```
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
-```linux
-cd kodluyoruzilkrepo
-code .
-```
 
 
 ## Contributing
