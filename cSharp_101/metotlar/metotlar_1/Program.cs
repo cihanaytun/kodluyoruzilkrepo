@@ -62,7 +62,8 @@ namespace metotlar_1
             return (deger1 + deger2);
         }
 
-        //ref anahtar sözcüğü ile bellekteki adreslere bakılıp değer ordan alınır.
+        //ref anahtar sözcüğü ile bellekteki adreslere bakılıp değer ordan alınır. 
+        //ref olursa ilk değeri olmak zorunda
         public int RefArttirveTopla(ref int deger1,ref int deger2)
         {
             deger1 += 1;
