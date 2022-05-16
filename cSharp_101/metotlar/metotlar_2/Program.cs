@@ -12,7 +12,7 @@ namespace metotlar_2
             string sayi = "999"; 
             int outSayi;
 
-            // ool sonuc = int.TryParse(sayi, out int outSayi);
+            // bool sonuc = int.TryParse(sayi, out int outSayi);
             bool sonuc = int.TryParse(sayi, out outSayi);
             if (sonuc == true)
             {
