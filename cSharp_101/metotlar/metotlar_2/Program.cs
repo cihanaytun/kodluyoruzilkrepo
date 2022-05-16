@@ -7,6 +7,7 @@ namespace metotlar_2
         static void Main(string[] args)
         {
             // Out Parametreler ---> Bir işlem sonucu çıkan değeri setlemek istersek ve setlenmiş değeri kullanmak için out parametre olarak verilebilir
+            // İlk değer alamk zorunda değil
 
             string sayi = "999"; 
             int outSayi;
