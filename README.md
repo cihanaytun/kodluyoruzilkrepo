@@ -23,6 +23,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
   * diziler_2
 - metotlar
   * metotlar_1
+  * metotlar_2
 
   
 
