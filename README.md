@@ -24,6 +24,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
 - metotlar
   * metotlar_1
   * metotlar_2
+  * metotlar_3
 
   
 
