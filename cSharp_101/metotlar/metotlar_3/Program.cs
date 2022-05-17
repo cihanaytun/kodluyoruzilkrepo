@@ -55,13 +55,13 @@ namespace metotlar_3
     public class Islemler
     {
         //reküsif fonksiyon üs alma
-        public int Expo(int sayi , int üs)
+        public int Expo(int sayi , int us)
         {
-            if(üs<2)
+            if(us<2)
             {
                 return sayi;
             }
-            return Expo(sayi,üs-1)*sayi;
+            return Expo(sayi,us-1)*sayi;
         }
 
         // reküsif fonksiyon faktöriyel
