@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
 
 ![image](img/image.png)
 
-## _Data Structures And Algorithms_
+## _Veri Yapıları Ve Algoritmalar_
 - [binary_tree_search_project](https://github.com/cihanaytun/patika-dev/blob/main/data_structures_and_algorithms/binary_tree_search_project/project_3.png)
 - [insertion_sort_project](https://github.com/cihanaytun/patika-dev/blob/main/data_structures_and_algorithms/insertion_sort_project/Proje.txt)
 - [merge_sort_project](https://github.com/cihanaytun/patika-dev/blob/main/data_structures_and_algorithms/merge_sort_project/project_2.png)
