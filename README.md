@@ -28,7 +28,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
   * metotlar_4
   * metotlar_5
 - koleksiyonlar
-  * (koleksiyonlar_1)[https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/koleksiyonlar/koleksiyonlar_1/Program.cs]
+  * [koleksiyonlar_1](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/koleksiyonlar/koleksiyonlar_1/Program.cs)
   
 
 
