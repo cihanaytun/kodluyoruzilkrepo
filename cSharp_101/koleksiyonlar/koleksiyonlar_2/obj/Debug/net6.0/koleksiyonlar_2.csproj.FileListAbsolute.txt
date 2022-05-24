@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\bin\Debug\net6.0\koleksiyonlar_2.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\bin\Debug\net6.0\koleksiyonlar_2.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\bin\Debug\net6.0\koleksiyonlar_2.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\bin\Debug\net6.0\koleksiyonlar_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\bin\Debug\net6.0\koleksiyonlar_2.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\koleksiyonlar_2.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\koleksiyonlar_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\koleksiyonlar_2.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\koleksiyonlar_2.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\koleksiyonlar_2.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\koleksiyonlar_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\refint\koleksiyonlar_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\koleksiyonlar_2.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\koleksiyonlar_2.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\koleksiyonlar\koleksiyonlar_2\obj\Debug\net6.0\ref\koleksiyonlar_2.dll
