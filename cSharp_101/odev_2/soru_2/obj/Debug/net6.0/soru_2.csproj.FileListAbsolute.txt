@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\bin\Debug\net6.0\soru_2.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\bin\Debug\net6.0\soru_2.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\bin\Debug\net6.0\soru_2.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\bin\Debug\net6.0\soru_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\bin\Debug\net6.0\soru_2.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\soru_2.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\soru_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\soru_2.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\soru_2.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\soru_2.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\soru_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\refint\soru_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\soru_2.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\soru_2.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\odev_2\soru_2\obj\Debug\net6.0\ref\soru_2.dll
