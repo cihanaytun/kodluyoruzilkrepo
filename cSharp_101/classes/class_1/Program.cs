@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Class
+namespace class_1
 {
     class Program
     {
@@ -24,7 +24,7 @@ namespace Class
             // * Protected --> tanımlandığı sınıf yada kalıtımını aldığı sınıftan erişilebilir
 
 
-
+ 
             Calisan calisan1 = new Calisan();
             calisan1.Ad = "Cihan";
             calisan1.Soyad = "Aytun";
@@ -51,6 +51,11 @@ namespace Class
         public string Soyad;
         public int No;
         public string Departman;
+
+
+
+
+ 
 
         public void CalisanBilgileri()
         {

@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\bin\Debug\net6.0\class_2.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\bin\Debug\net6.0\class_2.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\bin\Debug\net6.0\class_2.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\bin\Debug\net6.0\class_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\bin\Debug\net6.0\class_2.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\class_2.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\class_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\class_2.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\class_2.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\class_2.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\class_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\refint\class_2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\class_2.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\class_2.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\classes\class_2\obj\Debug\net6.0\ref\class_2.dll
