@@ -8,13 +8,12 @@ namespace class_2
         {
             //Constractor
             //Sınıf nesnesi ilk oluşturulduğunda yapılmasını istediğimiz işleri kurucu metotlar içerisinde yaparız.
-            /*
             
+            /*
             Kurucu eetot tanımlarken dikkat edilmesi gereken noktalar ise şu şekildedir:
             1- Yapıcı metotların isimleri sınıf isimleri ile aynı olmak zorundadır.
             2- Public olarak bildirilmeleri gerekir.
             3-  Geri dönüş değerleri yoktur.
-
             */
 
             Console.WriteLine("****** Çalişan 1 ******");
