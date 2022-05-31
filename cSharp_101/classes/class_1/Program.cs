@@ -53,10 +53,6 @@ namespace class_1
         public string Departman;
 
 
-
-
- 
-
         public void CalisanBilgileri()
         {
             Console.WriteLine("Çalisan Adi :{0}",Ad);
