@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\bin\Debug\net6.0\oop_2.2.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\bin\Debug\net6.0\oop_2.2.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\bin\Debug\net6.0\oop_2.2.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\bin\Debug\net6.0\oop_2.2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\bin\Debug\net6.0\oop_2.2.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\oop_2.2.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\oop_2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\oop_2.2.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\oop_2.2.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\oop_2.2.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\oop_2.2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\refint\oop_2.2.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\oop_2.2.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\oop_2.2.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\oop\oop_2\oop_2.2\obj\Debug\net6.0\ref\oop_2.2.dll
