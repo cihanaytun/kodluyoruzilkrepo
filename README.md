@@ -30,8 +30,14 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
 - koleksiyonlar
   * [koleksiyonlar_1](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/koleksiyonlar/koleksiyonlar_1/Program.cs) --> Generic List
   * [koleksiyonlar_2](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/koleksiyonlar/koleksiyonlar_2/Program.cs) --> Array List
-  * [koleksiyonlar_3](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/koleksiyonlar/koleksiyonlar_3/Program.cs) --> Dictionary
-  
+  * [koleksiyonlar_3](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/koleksiyonlar/koleksiyonlar_3/Program.cs) --> Dictionary 
+- classes
+  * [class_1](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_1/Program.cs)  --> Sınıf Nedir ? Instance, Field, Property
+  * [class_2](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_2/Program.cs) --> Erişim Belirleyiciler ve Kurucu Fonksiyonlar
+  * [class_3](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_3/Program.cs) --> Encapsulation ve Property Kavramı
+  * [class_4](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_4/Program.cs) --> Static Sınıf ve Üyeler
+  * [class_5](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_5/Program.cs) --> Struct(Yapı) Kavramı  
+  * [class_6](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_6/Program.cs) --> Enumlar
 
 
 
