@@ -38,11 +38,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
   * [class_4](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_4/Program.cs) --> Static Sınıf ve Üyeler
   * [class_5](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_5/Program.cs) --> Struct(Yapı) Kavramı  
   * [class_6](https://github.com/cihanaytun/patika-dev/blob/main/cSharp_101/classes/class_6/Program.cs) --> Enumlar
- -OOP(Object Oriented programming)
+- OOP(Object Oriented programming)
   * [OOP_1](https://github.com/cihanaytun/patika-dev/tree/main/cSharp_101/oop/oop_1) -->Inheritance | Polymorphism | sealed class
   * OOP_2
-    * [OOP_2.1](https://github.com/cihanaytun/patika-dev/tree/main/cSharp_101/oop/oop_2/oop_2.1) --> Interface
-    * [OOP_2.2](https://github.com/cihanaytun/patika-dev/tree/main/cSharp_101/oop/oop_2/oop_2.2)
+   * [OOP_2.1](https://github.com/cihanaytun/patika-dev/tree/main/cSharp_101/oop/oop_2/oop_2.1) --> Interface
+   * [OOP_2.2](https://github.com/cihanaytun/patika-dev/tree/main/cSharp_101/oop/oop_2/oop_2.2)
 
 
 
