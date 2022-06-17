@@ -16,9 +16,10 @@ namespace  phone_book_app
         //constructor
         public PersonCard(string name,string surname,string phone)
         {
-            this.name = Name;
-            this.surname = Surname;
-            this.phone = Phone;
+            Name = name;
+            Surname = surname;
+            Phone = phone;
+
         }
 
         public PersonCard()

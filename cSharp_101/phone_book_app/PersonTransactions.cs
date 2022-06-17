@@ -1,23 +1,25 @@
-namespace  phone_book_app
-{
-   public class PersonTransactions 
-   {
-    
+using System;
+using System.Collections;
+using System.Globalization;
 
+namespace  phone_book_app
+{   
+    public class PersonTransactions 
+    {
+        
         List<PersonCard> PersonCardBook = new List<PersonCard>();
         public PersonTransactions()
         {
             PersonCardBook.Add(new PersonCard("Polis","Hattı","155"));
-            PersonCardBook.Add(new PersonCard("İtfaye","Hattı","110"));
+            PersonCardBook.Add(new PersonCard("Itfaye","Hattı","110"));
             PersonCardBook.Add(new PersonCard("Sağlık","Hattı","112"));
             PersonCardBook.Add(new PersonCard("Jandarma","Hattı","156"));
-            PersonCardBook.Add(new PersonCard("Sahil güvenlik","Hattı","158"));
+            PersonCardBook.Add(new PersonCard("Sahil güvenlik","Hattı","158"));          
         }
-
-
-
-
-        // Add New Number
+         
+         
+     
+        // Add Number
         public void AddPerson()
         {
             PersonCard person = new();
@@ -43,7 +45,7 @@ namespace  phone_book_app
             int numberDelete = 2;
             while (numberDelete == 2)
             {
-                Console.WriteLine(" Lütfen telefonunu silmek istediğiniz kişinin adını ya da soyadını giriniz:");
+                Console.Write(" Lütfen telefonunu silmek istediğiniz kişinin adını ya da soyadını giriniz : ");
                 nameOrSurname = Console.ReadLine();
 
                 foreach (var item in PersonCardBook)
@@ -51,13 +53,13 @@ namespace  phone_book_app
                     if ((PersonCardBook.IndexOf(item) == PersonCardBook.Count -1) && !(nameOrSurname.ToLower() == item.Name.ToLower() || nameOrSurname.ToLower() == item.Surname.ToLower()))
                     {
                         Console.WriteLine("Aradığınız krtiterlere uygun veri  bulunamadı. Lütfen bir seçim yapınız.");
-                        Console.WriteLine(" * Silmeyi sonlandırmak için : (1)");
-                        Console.WriteLine(" * Yeniden denemek için      : (2)");
+                        Console.Write(" * Silmeyi sonlandırmak için : (1)");
+                        Console.Write(" * Yeniden denemek için      : (2)");
 
                         numberDelete = Convert.ToInt32(Console.ReadLine());
 
                     }
-                    else
+                    else if (numberDelete == 2 && nameOrSurname.ToLower() == item.Name.ToLower() || nameOrSurname.ToLower() == item.Surname.ToLower())
                     {
                         Console.WriteLine(item.Name +" "+item.Surname + " isimli kişi rehberden silinmek üzere, onaylıyor musunuz ?(y/n)" );
 
@@ -79,8 +81,7 @@ namespace  phone_book_app
 
 
 
-
-       //Update Number
+        //Update Number
         public void UpdateNumber()
         {
             string nameOrSurname;
@@ -88,8 +89,8 @@ namespace  phone_book_app
 
             while (numberUpdate == 2)
             {
-                Console.WriteLine("Lütfen güncellemk silmek istediğiniz kişinin adını ya da soyadını giriniz:");
-                nameOrSurname = Console.ReadLine();
+                Console.Write("Lütfen numarasını silmek istediğiniz kişinin adını ya da soyadını giriniz : ");
+                nameOrSurname = Console.ReadLine().ToLower();
 
                 foreach (var item in PersonCardBook)
                 {
@@ -102,8 +103,7 @@ namespace  phone_book_app
                         numberUpdate = Convert.ToInt32(Console.ReadLine());
 
                     }
-                    //error
-                    else 
+                    else if (numberUpdate == 2 && nameOrSurname.ToLower() == item.Name.ToLower() || nameOrSurname.ToLower() == item.Surname.ToLower())
                     {
                         Console.WriteLine(item.Name + " " + item.Surname + " kişi bilgileri güncellenmek üzere, onaylıyor musunuz ?(y/n)");
 
@@ -115,8 +115,8 @@ namespace  phone_book_app
                             item.Surname = Console.ReadLine();
                             Console.WriteLine("Lütfen yeni telefon numarası giriniz  : ");
                             item.Phone = Console.ReadLine();    
-                            Console.WriteLine(item.Name + " " + item.Surname + "  " + item.Phone + " kişi olarak güncellendi");
-                            
+
+                            Console.WriteLine(item.Name + " " + item.Surname + " : " + item.Phone + " kişi olarak güncellendi");
                             numberUpdate = 1;
                             break;
                         }
@@ -130,25 +130,56 @@ namespace  phone_book_app
         }
 
 
-
-       // Person List
+        // Person List
+        //Sorting wrong after adding new contact  
         public void PersonList()
         {
-            Console.WriteLine("  Telefon Rehberi \n**********************************************");  
-            foreach (var item in PersonCardBook)
+            
+            Console.WriteLine(" * Rehberi A-Z sıralamak için    : (1)");
+            Console.WriteLine(" * Rehberi Z-A sıralamak için    : (2)");
+            againTry:
+            int listType = Convert.ToInt32(Console.ReadLine());
+
+            PersonCardBook= PersonCardBook.OrderBy(x=>x.Name[0]).ToList();
+
+            if (listType == 1)
             {
-                Console.WriteLine(item.Name);
-                Console.WriteLine(item.Surname);
-                Console.WriteLine(item.Phone);
-                Console.WriteLine("---------");
-            }              
+                Console.WriteLine(" ********** Telefon Rehberi ********** ");  
+   
+                
+                foreach (var item in PersonCardBook)
+                {
+                    Console.WriteLine(item.Name);
+                    Console.WriteLine(item.Surname);
+                    Console.WriteLine(item.Phone);
+                    Console.WriteLine("---------");
+                }   
+            }
+            else if (listType == 2)
+            {
+                Console.WriteLine(" ********** Telefon Rehberi ********** ");  
+                PersonCardBook.Reverse();
+
+                foreach (var item in PersonCardBook)
+                {
+                    Console.WriteLine(item.Name);
+                    Console.WriteLine(item.Surname);
+                    Console.WriteLine(item.Phone);
+                    Console.WriteLine("---------");
+                }   
+            }
+            else
+            {
+                Console.WriteLine(" Yanlış değer girdiniz ");  
+                goto againTry;
+            }
+ 
+             
         }
 
 
 
-
-
-       // Search Person
+        // Search Person
         public void SerachPerson()
         {
             Console.WriteLine(" Arama yapmak istediğiniz tipi seçiniz.:");
@@ -161,7 +192,7 @@ namespace  phone_book_app
         
             if (searchType == 1)
             {
-                Console.WriteLine("İsim veya soyisime göre arama yapmak için isim ya da soyisim giriniz");
+                Console.Write("İsim veya soyisime göre arama yapmak için isim ya da soyisim giriniz : ");
                 string nameOrSurname=Console.ReadLine();
 
                 foreach (var item in PersonCardBook)
@@ -172,16 +203,20 @@ namespace  phone_book_app
                         {
                             Console.WriteLine("Aranan krtiterlere uygun kişi rehberde bulunamadı.");                  
                         }
+                        else
+                        {
+                            Console.WriteLine("Aranan krtiterlere uygun kişi rehberde bulunamadı.");                                              
+                        }
                     }
-                    else 
+                    else if (nameOrSurname.ToLower() == item.Name.ToLower() || nameOrSurname.ToLower() == item.Surname)
                     {
-                        Console.WriteLine("İsim: " + item.Name + "\n Soyisim: " + item.Surname + "\n Telefon Numarası: " + item.Phone);                    
+                        Console.WriteLine("İsim: " + item.Name + "\nSoyisim: " + item.Surname + "\nTelefon Numarası: " + item.Phone);                    
                     }
                 }
             }
             else if (searchType == 2)
             {
-                Console.WriteLine(" Telefon numarasına göre arama yapmak için telefon numarasını giriniz");
+                Console.Write(" Telefon numarasına göre arama yapmak için telefon numarasını giriniz : ");
                 string phoneNumber = Console.ReadLine();
 
                 foreach (var item in PersonCardBook)
@@ -191,11 +226,11 @@ namespace  phone_book_app
                         if (!PersonCardBook.Contains(item))
                         {
                             Console.WriteLine("Aranan krtiterlere uygun kişi rehberde bulunamadı.");                  
-                        }        
+                        }
                         else
                         {
-                            continue;
-                        }                
+                            Console.WriteLine("Aranan krtiterlere uygun kişi rehberde bulunamadı.");                                              
+                        }                        
                     }
                     else if (phoneNumber == item.Phone)
                     {
@@ -207,8 +242,9 @@ namespace  phone_book_app
             }        
         }
 
+      
 
 
-
-   }
+     
+    }
 }

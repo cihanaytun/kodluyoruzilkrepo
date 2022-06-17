@@ -10,9 +10,9 @@ static void Main(string[] args)
 
            PersonTransactions personTransactions = new PersonTransactions();
            
-           string devam="";
+           string goOn="";
            
-           while (devam != "exit")
+           while (goOn != "exit")
            {
                 Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz :)  \nProgramdan Çıkış için 'exit' giriniz");
                 Console.WriteLine("*******************************************");
@@ -21,10 +21,10 @@ static void Main(string[] args)
                 Console.WriteLine("(3) Varolan Numarayı Güncelleme");
                 Console.WriteLine("(4) Rehberi Listelemek");
                 Console.WriteLine("(5) Rehberde Arama Yapmak");       
-                devam = Console.ReadLine();     
+                goOn = Console.ReadLine();     
 
 
-                switch (devam)
+                switch (goOn)
                 {
                     case "1":
                         personTransactions.AddPerson();
