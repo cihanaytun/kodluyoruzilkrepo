@@ -1,0 +1,15 @@
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\bin\Debug\net6.0\phone-book-app.exe
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\bin\Debug\net6.0\phone-book-app.deps.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\bin\Debug\net6.0\phone-book-app.runtimeconfig.json
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\bin\Debug\net6.0\phone-book-app.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\bin\Debug\net6.0\phone-book-app.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\phone-book-app.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\phone-book-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\phone-book-app.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\phone-book-app.AssemblyInfo.cs
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\phone-book-app.csproj.CoreCompileInputs.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\phone-book-app.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\refint\phone-book-app.dll
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\phone-book-app.pdb
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\phone-book-app.genruntimeconfig.cache
+D:\19_PatikaDev_Course\patikadev\cSharp_101\phone-book-app\obj\Debug\net6.0\ref\phone-book-app.dll
