@@ -1,5 +1,5 @@
 # Patika Dev
----
+
 
 
 ## _Veri Yapıları Ve Algoritmalar_
