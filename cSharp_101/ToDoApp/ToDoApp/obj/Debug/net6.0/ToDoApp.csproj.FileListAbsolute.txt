@@ -1,0 +1,5 @@
+D:\19_PatikaDev_Kurs\patikadev\cSharp_101\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+D:\19_PatikaDev_Kurs\patikadev\cSharp_101\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\19_PatikaDev_Kurs\patikadev\cSharp_101\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.AssemblyInfoInputs.cache
+D:\19_PatikaDev_Kurs\patikadev\cSharp_101\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.AssemblyInfo.cs
+D:\19_PatikaDev_Kurs\patikadev\cSharp_101\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.csproj.CoreCompileInputs.cache
