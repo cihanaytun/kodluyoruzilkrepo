@@ -1,8 +1,6 @@
-#Patika Dev
----
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumuz ilk repo. 
+# Patika Dev
 
-![image](img/image.png)
+
 
 ## _Veri Yapıları Ve Algoritmalar_
 - [binary_tree_search_project](https://github.com/cihanaytun/patika-dev/blob/main/data_structures_and_algorithms/binary_tree_search_project/project_3.png)
